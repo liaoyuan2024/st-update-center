@@ -1,0 +1,2 @@
+version=1.0
+url=https://cdn.jsdelivr.net/gh/liaoyuan2024/st-update-center@v1.0/douyin.exe
